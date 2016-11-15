@@ -1,6 +1,12 @@
+body
+{
+ background-color: black;
+}
+
+
 #gora
 {
-    background-color: orange;
+        background-color: orange;
 	padding: 5px;
 	border-bottom: 1px solid black;
 	border-top: 1px solid black;
@@ -8,9 +14,8 @@
 
 .lez
 {
-  background-color: #14b7e7;
+        background-color: #14b7e7;
 	padding: 5px;
-	width: 100%;
 	border-bottom: 2px solid black;
 	border-top: 2px solid black;
 }
