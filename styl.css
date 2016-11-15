@@ -50,6 +50,48 @@ body
 	padding: 5px;
 }
 
+.inline
+{
+	text-align: center;
+	clear: both;
+	display: block;
+	width: 100%;
+	border: 2px solid red;
+	margin-top: 10px;
+}
+
+.naglowek
+{
+	width:30%;
+	height: 30px;
+	border: 2px solid blue;
+	float: left;
+	margin-left: 2.2%;
+}
+
+.naglowek2
+{
+	width:30%;
+	height: 30px;
+	border: 2px solid blue;
+	float: left;
+	margin-left: 2.2%;
+}
+
+.zdjecie
+{
+	width:30%;
+	height: auto;
+	border: 2px solid blue;
+	float: left;
+	margin-left: 2.2%;
+}
+
+.clear
+{
+	clear: both;
+}
+
 #footer
 {
 text-align: center;
