@@ -52,6 +52,7 @@ body
 
 .inline
 {
+	border-bottom: 2px solid black;
 	text-align: center;
 	clear: both;
 	display: block;
@@ -86,6 +87,24 @@ body
 .clear
 {
 	clear: both;
+}
+
+
+.gal
+{
+	text-align: center;
+	clear: both;
+	display: block;
+	width: 100%;
+	margin-top: 10px;
+}
+
+.zdjecie1
+{
+	width:15%;
+	height: auto;
+	float: left;
+	margin-left: 2.2%;
 }
 
 #footer
