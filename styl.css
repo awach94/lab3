@@ -1,6 +1,6 @@
 body
 {
- background-color: #ccffff;
+ background-color: #e6ffff;
 }
 
 
@@ -9,9 +9,14 @@ body
 	padding: 5px;
 }
 
-.lez
+#top
 {
-        background-color: #99ffff;
+	padding: 5px;
+}
+
+#stu
+{
+        background-color: #ccffff;
 	padding: 5px;
 	border-bottom: 2px solid black;
 	border-top: 2px solid black;
@@ -32,6 +37,7 @@ body
 
 #menu
 {
+        background-color: #ccffff;
 	color: black;
 	padding: 10px;
 	text-align: center;
