@@ -148,10 +148,15 @@ body
 
 .opis
 {
-	text-align: justify;
+	width:30%;
+	height: 100px;
 	border: 1px solid black;
+	float: left;
+	margin-left: 1.9%;
 	padding-left: 5px;
 	padding-right: 5px;
+	text-align: justify;
+	font-size:1.25vw;
 }
 
 
