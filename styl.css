@@ -18,8 +18,7 @@ body
 {
         background-color: #ccffff;
 	padding: 5px;
-	border-bottom: 2px solid black;
-	border-top: 2px solid black;
+        border: 2px solid black;
 }
 
 #tytul
@@ -44,7 +43,7 @@ body
 	clear: both;
 	letter-spacing: -0.5px;
 	font-weight:bold;
-	border-bottom: 1px solid black;
+        border: 2px solid black;
 }
 
 #brus
@@ -68,6 +67,7 @@ body
 	height: 30px;
 	float: left;
 	margin-left: 2.2%;
+	border: 1px solid black;
 }
 
 .naglowek2
@@ -76,6 +76,7 @@ body
 	height: 30px;
 	float: left;
 	margin-left: 2.2%;
+	border: 1px solid black;
 }
 
 .zdjecie
@@ -84,6 +85,7 @@ body
 	height: auto;
 	float: left;
 	margin-left: 2.2%;
+	border: 1px solid black;
 }
 
 .clear
