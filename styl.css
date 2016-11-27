@@ -53,7 +53,6 @@ body
 
 .inline
 {
-	border-bottom: 2px solid black;
 	text-align: center;
 	clear: both;
 	display: block;
@@ -98,6 +97,15 @@ body
 	border: 1px solid black;
 }
 
+.linki
+{
+	width:30%;
+	height: auto;
+	float: left;
+	margin-left: 2.2%;
+	border: 1px solid black;
+}
+
 .clear
 {
 	clear: both;
@@ -106,6 +114,7 @@ body
 
 .gal
 {
+	border-top: 1px solid black;
 	text-align: center;
 	clear: both;
 	display: block;
@@ -129,6 +138,14 @@ body
 	margin-top: 10px;
 }
 
+.map
+{
+	margin-top: 10px;
+	border: 5px solid black;
+	margin-left:3.5%;
+	width:90%;
+	height:auto;
+}
 
 
 ol,ul
