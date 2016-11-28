@@ -138,10 +138,14 @@ body
 
 .map
 {
-	margin-top: 10px;
-	margin-left: 4%;
+        margin:auto;
 	width:90%;
 	height:auto;
+}
+
+.map iframe
+{
+	width:100%;	
 }
 
 .opis
