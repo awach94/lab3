@@ -141,6 +141,7 @@ body
         margin:auto;
 	width:90%;
 	height:auto;
+	padding: 5px;
 }
 
 .map iframe
